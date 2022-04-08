@@ -13,3 +13,7 @@ Cuando se tratase de la creación de nuevas carpetas, consultarlo previamente co
 > git commit -m "make it better!"
 > 
 > git push -u origin **nombre de tu branch**
+
+## To navigate between branches
+
+> git checkout **nombre del branch al que quieras ir**
