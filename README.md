@@ -10,3 +10,6 @@ Cuando se tratase de la creación de nuevas carpetas, consultarlo previamente co
 
 > git add .
 > 
+> git commit -m "make it better!"
+> 
+> git push -u origin **nombre de tu branch**
