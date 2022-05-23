@@ -1,0 +1,12 @@
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\obj\Debug\Proyecto.MainForm.resources
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+D:\ISIL\Desarrollo de Aplicacion 1\Proyecto Final\Proyecto\Proyecto\obj\Debug\Proyecto.LoginForm.resources
